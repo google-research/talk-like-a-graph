@@ -24,12 +24,14 @@ For questions or comments about the implementation, please contact baharef@googl
 
 If you use this package for published work, please cite the following:
 
-@inproceedings{fatemi2024talk,
-      title={Talk like a Graph: Encoding Graphs for Large Language Models}, 
+If you use this package for published work, please cite the following:
+
+    @inproceedigs{fatemi2024talk,
+      title={Talk like a Graph: Encoding Graphs for Large Language Models},
       author={Bahare Fatemi and Jonathan Halcrow and Bryan Perozzi},
       booktitle={International Conference on Learning Representations (ICLR)},
-      year={2024},
-}
+      year={2024}
+    }
 
 ## Disclaimer
 
