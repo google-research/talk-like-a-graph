@@ -2,7 +2,7 @@
 
 ## <p align="center">**KDD'24 Tutorial**</p>
 ### <p align="center">Sunday, August 25th, 2024</p>
-<p align="center">2:00 p.m. - 5:00 pm CEST</p>
+<p align="center">2:00 pm - 5:00 pm CEST</p>
 
 ### Overview
 
